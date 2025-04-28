@@ -1,6 +1,6 @@
 # The MEDIATION project
 
-Here you will find all the information on the data that have been (or are being) used in the MEDIATION project. 
+Here you will find all the information on the data that have been (or are being) used in the MEDIATION project.
 
 ## What is going on
 
@@ -15,7 +15,7 @@ The project focuses on developing innovative tools and raise knowledge on ocean 
 
 ## What is available
 
-The [tools](MEDIATION-tools/), [simulations](MEDIATION-simulations/) and [observations](MEDIATION-observations/) are either available by direct download on this repository, or by a hyperlink / access path. You can see [here](link to add here) a detailed list of the data that are available so far. 
+The [tools](../../MEDIATION-catalog/MEDIATION-tools/), [simulations](MEDIATION-simulations/) and [observations](MEDIATION-observations/) are either available by direct download on this repository, or by a hyperlink / access path. You can see [on the MEDIATION catalog](MEDIATION-catalog/README.md) a detailed list of the data that are available so far. 
 
 
 
