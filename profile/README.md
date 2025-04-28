@@ -2,7 +2,7 @@
 
 Here you will find all the information on the data that have been (or are being) used in the MEDIATION project. 
 
-! [alt text](Instantane-de-la-temp-de-surf-modelisee-dans-ATL-N-780x400.jpg) 
+[alt text](Instantane-de-la-temp-de-surf-modelisee-dans-ATL-N-780x400.jpg) 
 
 ## What is going on
 
