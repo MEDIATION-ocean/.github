@@ -1,3 +1,5 @@
+![Alt text](Instantane-de-la-temp-de-surf-modelisee-dans-ATL-N-780x400.jpg)
+
 # The MEDIATION project
 
 Here you will find all the information on the data that have been (or are being) used in the MEDIATION project.
