@@ -12,7 +12,7 @@ The project focuses on developing innovative tools and raise knowledge on ocean 
 2) To maintain and develop a sustainable anthropic exploitation of oceanic resources,
 3) To reduce ocean pollution.
 
-[The project description](https://oceansconnectes.org/mediation-un-jumeau-numerique-robuste-et-efficace-de-locean/) and [General information about the Océan et Climat program](https://www.ocean-climat.fr/) are available on their respective webpages.
+[The project description](https://oceansconnectes.org/mediation-un-jumeau-numerique-robuste-et-efficace-de-locean/) and [general information about the Océan et Climat program](https://www.ocean-climat.fr/) are available on their respective webpages.
 
 
 ## What is available
