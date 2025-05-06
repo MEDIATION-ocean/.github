@@ -15,7 +15,6 @@ The project focuses on developing innovative tools and raise knowledge on ocean 
 ## What is available
 
 The [tools](https://github.com/MEDIATION-ocean/MEDIATION-catalog/blob/main/README.md#mediation-tools), [simulations](https://github.com/MEDIATION-ocean/MEDIATION-catalog/blob/main/README.md#mediation-simulations) and [observations](https://github.com/MEDIATION-ocean/MEDIATION-catalog/blob/main/README.md#mediation-observations) are listed and detailed [on the MEDIATION catalog](https://github.com/MEDIATION-ocean/MEDIATION-catalog/). They are either available by direct download on this repository, or by a hyperlink / access path.
-
 Some datasets / toolboxes that could pick your interest are also pinned for direct access below.
     
     
